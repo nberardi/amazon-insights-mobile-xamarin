@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="obj/Debug/ios/ObjCRuntime/Libraries.g.cs">
+    <Files>
+      <File FileName="ApiDefinition.cs" Line="257" Column="52" />
+      <File FileName="obj/Debug/ios/AmazonInsights/AIABTestClient.g.cs" Line="75" Column="3" />
+      <File FileName="obj/Debug/ios/AmazonInsights/AIVirtualMonetizationEventBuilder.g.cs" Line="166" Column="26" />
+      <File FileName="obj/Debug/ios/AmazonInsights/AIAppleMonetizationEventBuilder.g.cs" Line="168" Column="26" />
+      <File FileName="obj/Debug/ios/ObjCRuntime/Libraries.g.cs" Line="12" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
