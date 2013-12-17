@@ -1,0 +1,2 @@
+amazon-insights-xamarin
+=======================
